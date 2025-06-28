@@ -34,6 +34,6 @@
 
 ###
 
-<p align="left">🌐 Let's Connect<br><br>- 💼 LinkedIn https://linkedin.com/in/InaamallahSarfraz<br>- 📫 Email: inaamallah554@gmail.com</p>
+<p align="left">🌐 Let's Connect<br><br>- 💼 LinkedIn https://linkedin.com/in/inaamallah-sarfraz<br>- 📫 Email: inaamallah554@gmail.com</p>
 
 ###
