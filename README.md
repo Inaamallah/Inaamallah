@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022  <br>📚 I'm currently learning Machine Learning, AI, and SaaS development  <br>🎯 Goals: Build and launch my own AI-based SaaS products  <br>🎲 Fun fact: I talk to AI more than humans!</p>
+<p align="left">🔍 Passionate about uncovering insights through data<br>
+📊 Currently diving deep into Data Science, Machine Learning, and Analytics<br>
+🎯 Goal: Master data-driven decision-making and contribute to impactful projects<br>
+🤖 Fun fact: I enjoy translating messy data into meaningful stories!</p>
 
 ###
 
