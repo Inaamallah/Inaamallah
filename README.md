@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is InaamAllah and I'm an aspiring AI Engineer from Pakistan 🇵🇰</p>
+<p align="left">I'm InaamAllah Sarfraz — an aspiring Data Scientist and Analyst from Pakistan 🇵🇰</p>
 
 ###
 
