@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm InaamAllah Sarfraz — an aspiring Data Scientist and Analyst Student from Pakistan 🇵🇰</p>
+<p align="left">I'm InaamAllah Sarfraz — an aspiring Data Science Student from Pakistan 🇵🇰</p>
 
 ###
 
