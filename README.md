@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm InaamAllah Sarfraz — an aspiring Data Science Student from Pakistan 🇵🇰</p>
+<p align="left">I'm InaamAllah Sarfraz — an aspiring Data Analyst Student from Pakistan 🇵🇰</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🔍 Passionate about uncovering insights through data<br>
-📊 Currently diving deep into Data Science, Machine Learning, and Analytics<br>
+📊 Currently diving deep into Data Analysis, Data Science and Machine Learning<br>
 🎯 Goal: Master data-driven decision-making and contribute to impactful projects</p>
 
 ###
